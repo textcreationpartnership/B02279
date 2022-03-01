@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the reader</title>
+            <author>Collins, John, 1625-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02279</idno>
+            <idno type="STC">Wing C5382A</idno>
+            <idno type="STC">ESTC R176376</idno>
+            <idno type="EEBO-CITATION">53981633</idno>
+            <idno type="OCLC">ocm 53981633</idno>
+            <idno type="VID">180184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180184)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2819:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the reader</title>
+                  <author>Collins, John, 1625-1683.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Signed at end: John Collins.</note>
+                  <note>The preface and first page of instruction to: An introduction to merchants-accompts / John Collins. Cf. Wing (2nd ed.).</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Accounting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:180184:1" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>COURTEOUS READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my Youth-hood I was employed in Clerk<g ref="char:EOLhyphen"/>ſhip under, and received ſome <hi>Mathema<g ref="char:EOLhyphen"/>tical</hi> Knowledge from Mr. <hi>John Marr,</hi> one of the Clerks of the <hi>Kitchin</hi> to His Preſent MAJESTY, when <hi>PRINCE</hi> of <hi>WALES,</hi> the ſaid Mr. <hi>Marr</hi> being very Eminent for his <hi>Mathematical</hi> Knowledge, ſome teſtimony whereof may be evinced, from thoſe excellent <hi>Dyals,</hi> wherewith the Gar<g ref="char:EOLhyphen"/>dens of our Late <hi>SOVERAIGN</hi> were adorned.</p>
+            <p>Our Inteſtine Miſeries increaſing, I loſt that Employment, and went Seven Years to Sea, moſt part of it in an <hi>Engliſh</hi> Merchant-man, become a Man of War in the <hi>Venetian</hi> Service againſt the <hi>Turks,</hi> in which having leiſure, I applied part of my Studies to <hi>Mathematicks</hi> and <hi>Merchants-Accompts,</hi> and upon my Return fell to the Practice thereof, and afterwards profeſt <hi>Writing, Merchants-Accompts,</hi> and ſome Parts of the <hi>Mathematicks;</hi> and having drawn up ſome Books of Accompts, and divers looſe Queſtions, for the Inſtruction of my Scholars, in the Years <hi>1652</hi> I committed them to the Preſs, under the Name of <hi>An Introduction to Merchants-Accompts;</hi> they were again Reprinted in the Year <hi>1664/5,</hi> without alteration; and in <hi>1666,</hi> the Fire conſumed the greateſt part of the Impreſſion: The <hi>Stationer</hi> hath ſince often urged me to alter and enlarge the ſame for another <hi>Edi<g ref="char:EOLhyphen"/>tion,</hi> preſuming, that I that have been much and lately concerned in great and Publick <hi>Accompts,</hi> and have ſtudied and been employed in the Affairs of Publick Trade and Plantations, might alter the ſame to good advantage, and perchance others may be of the ſame mind; but I concur not, finding that my ſaid long Experience hath not at all advanced my Knowledge in good Methods of <hi>Accompts,</hi> though I confeſs I underſtand the nature and In<g ref="char:EOLhyphen"/>trigues of bad ones much better than I did. Whereupon I have conſented, and
+<pb facs="tcp:180184:2"/>adviſed the <hi>Stationer</hi> to Reprint the ſame with the Addition of two more <hi>Accompts</hi> than were formerly extant, and was the more willing to do it at this time for this Reaſon, namely:</p>
+            <p>That I might take the opportunity of acquainting thoſe who are, or may be concerned, That I ſpend part of my time in Stating <hi>Merchants-Accompts, Ship-Accompts,</hi> or any Controverſal Intricate <hi>Accompts,</hi> (concerning which, as ſome have, ſo more may become Suits in <hi>Chancery</hi> or <hi>Equity,</hi> commenced or depending;) and in Computing of <hi>Intereſt,</hi> the Variation or Forbearance of <hi>Leaſes, Mortgages,</hi> and <hi>Annuities;</hi> and am to be heard of at Mr. <hi>Ro<g ref="char:EOLhyphen"/>bert Horn</hi>'s the <hi>Stationer,</hi> at the South-Entrance of the <hi>Royal Exchange,</hi> for whom this Book was Printed.</p>
+            <p>And now as to the enſuing Work, I have this to ſay, That when I firſt Compoſed it, I obſerved a want of ſuch Queſtions, that might not tire out the patience of the <hi>Reader</hi> or <hi>Student,</hi> there being none but <hi>Journals</hi> and <hi>Leidgers</hi> of other Authors in Print, ſeeming to ſome like a Labyrinth of a more than ſufficient length, and the which, when traced through, might poſſibly leave the Reader unskilful in theſe ſhorter Queſtions; ſome whereof have had their riſe from real Affairs, which have happened much of the ſame kind. And now if the Reader be ſtill unexperienced, and deſirous to reap ſome be<g ref="char:EOLhyphen"/>nefit thereby, let me adviſe him to write out the <hi>Journals</hi> of ſome of theſe <hi>Accompts,</hi> omitting the Relative Numbers in the Margin, of the which ſee <hi>Section</hi> the ſeventh following, and are not to be made till the Parcel is entirely Poſted, which that he may be enabled to do, he may uſe the enſuing Directions; but if this be thought too laborious, he may prick and examin over the ſaid <hi>Queſtions,</hi> the <hi>Accompt</hi> it ſelf gives Inſtruction for <hi>Bal<g ref="char:EOLhyphen"/>lancing,</hi> the <hi>Ballance</hi> of each <hi>Accompt,</hi> being Entred out of the <hi>Leidger</hi> at the end of the <hi>Journal</hi> Parcels.</p>
+            <p>Divers <hi>Accomptants</hi> have made the Buſineſs of <hi>Simple</hi> and <hi>Compound Intereſt,</hi> and <hi>Annuities,</hi> the Subject of their Diſcourſes: And I think it not improper to tell the Reader, that in <hi>1664</hi> I publiſhed a Paper, con<g ref="char:EOLhyphen"/>ſiſting of a quarter of a Sheet, and fitted for a Letter-Caſe, Intituled, <hi>The Doctrin of Decimal Arithmetick, Simple Intereſt,</hi> &amp;c. as alſo of <hi>Compound Intereſt,</hi> and <hi>Annuities,</hi> generally performed for any time of Payment or Rate of <hi>Intereſt,</hi> by help of any particular Table of the forbearance of One Pound Principal.</p>
+            <p>The which having been cenſured by ſome that underſtood it not, I think it not amiſs, a little better to inform them, That the Table therein uſed, is a Table of <hi>Compound Intereſt,</hi> at <hi>6 per Centum per Annum,</hi> for ſome Days, as well as (it is uſual) for ſome Years, the which to the ſaid, or any other <hi>Ratio,</hi> may be raiſed by ſeveral Methods, without any Extractions of <hi>Roots,</hi> or Aid of <hi>Logarithms;</hi> yea any <hi>Logarithm</hi> in the <hi>Canon</hi> may be eaſily computed thereby, and the Converſe; alſo any Number of <hi>Mean Proportio<g ref="char:EOLhyphen"/>nals</hi> found between two Extreams given.</p>
+            <p>The which Table and Precepts, removing the neceſſity of uſing a large Table of <hi>Logarithms,</hi> or of thoſe multitudes of Tables, fitted for the ſeveral kinds of <hi>Annuity Problems,</hi> at ſeveral Rates of <hi>Intereſt,</hi> and ſeveral Terms
+<pb facs="tcp:180184:2" rendition="simple:additions"/>of Payment, having been of conſtant and ſingular uſe to my ſelf, and believing it will be of no leſs to others, I intend (God willing) to Reprint, to be fitted as before, to be a <hi>Vade-mecum</hi> in a Letter-Caſe, though with a larger Table, (which will remove ſome Operations hitherto neceſſary, to ſupply the want thereof) and beſides an Explication thereof apart, illuſtrated with variety of Ex<g ref="char:EOLhyphen"/>amples: And hope alſo hereafter to have ſome time to alter, amend, and Reprint other Treatiſes of my own, as my Book of <hi>Quadrants</hi> and <hi>Dyalling,</hi> but moſt eſpecially my Treatiſe of <hi>Navigation,</hi> Intituled, <hi>The Mariners Plain Scale new plained;</hi> the rather, in regard His preſent Majeſty, to His Immortal Praiſe, hath been pleaſed to ſettle a Maintenance for Forty <hi>Hoſpital</hi> Boys, and for a Learned <hi>Lecturer</hi> to teach them <hi>Navigation;</hi> on the Advancement whereof, the Splendor of the Government, and the Trade and Safety of this Nation doth ſo much depend, that any that love their Country cannot but be zealous for, as particularly is,</p>
+            <closer>
+               <signed>Thy Friend and Well-wiſher, <hi>JOHN COLLINS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180184:3"/>
+            <head>DIRECTIONS TO Poſt or Tranſport the <hi>JO<g ref="char:V">Ʋ</g>RNAL</hi> into the <hi>LEIDGER.</hi>
+            </head>
+            <p n="1">I. <hi>For the Words of Expreſsion.</hi>
+            </p>
+            <p n="1">1. WHere you have many Debitors and one Creditor, proceed in order as they come; but where you have one Debitor and many Cre<g ref="char:EOLhyphen"/>ditors, it is beſt (in my opinion) to Poſt all the Creditors firſt, and the Debitor laſt; in regard, by this means, the Figures of Re<g ref="char:EOLhyphen"/>ference are firſt Entred into the Journal.</p>
+            <p n="2">2. Immediately after the word To, which is always uſed on the Debitor ſide, muſt follow the Name of that Account that is diſcharged; the word By is always uſed on the Creditor ſide, and after it follows the Name of the Account that is charged.</p>
+            <p n="3">3. All Accounts of Wares, Voyages, Commodities, ought to be Poſted at large in all the Particulars, with a Column ruled in the middle therein, to expreſs the Number, Weight, or Meaſure of the Commodity; by help whereof the Number and Quality of the Goods unſold may be known.</p>
+            <p n="4">4. Upon the Account of Wares, it is beſt to expreſs the Weight and Price, and on the Buyer or Sellers Account the time and manner of payment, if room permit: And here Note, That it is unuſual to uſe above one Line in a Parcel in the Leidger. And now though Wares or Commodities are Poſted at large, yet there is no ſuch neceſſity, that other Accounts be the like.</p>
+            <p n="2">II. <hi>For the Manner.</hi>
+            </p>
+            <p n="5">5. Diſcover by the Alphabet where that Account ſtands in the Leidger you are to charge, or if the Account be not yet Entred, frame an Account in a ſpare room, Entring the Title in a fair <hi>Italian</hi> Hand, and in the Kalendar the Folio where that Account ſtands; then in the outermoſt verge Enter the Year, and in the firſt ruled ſpace the Page of the Journal where that Parcel ſtands, in the next the Month, afterwards the Day, then the Words of the Parcel, and in the next ruled Column the Page of the Leidger where that Parcel ſtands Creditor, or if many Creditors, before the Column Figures expreſſing where thoſe Accounts ſtand, and finally the Sum ſo charged; thus is the Debitor Parcel Entred: The like in ſeveral Accounts for many Debitors, when you have but one Creditor.</p>
+            <p n="6">6. Turn to the Folio in the Leidger, where that Parcel is to be diſcharged or made Creditor, and there Entring as before the Year, Page of the Journal, Month, Day, Words of the Parcel, Page or Pages of the Leidger where Entred Debitor, and finally the Sum; thus is the Creditor Parcel entirely Entred: The like for many Creditor Parcels in ſeveral Accounts, when you have but one Debitor.</p>
+            <p n="7">7. Laſtly, In the Journal draw a Line between the Terms Dr / Cr, above the ſaid Line Enter the Page of the Leidger where that or thoſe Parcels ſtand charged or made Debitor, and under the Line the Page or Pages where the ſaid Parcel or Parcels are diſcharged or made Creditor: Obſerving by the way, that every Parcel is charged and diſcharged for the ſame Sum, either in groſs, or at length.</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
